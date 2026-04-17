@@ -15,7 +15,7 @@ Emily 🌸
 - [x] Prerequisites
 - [ ] Chapter 0 - Fundamentals
 	- [x] 0.1: Ray Tracing
-	- [ ] 0.2: CNNs & ResNets
+	- [x] 0.2: CNNs & ResNets
 	- [ ] 0.3: Optimization
 	- [ ] 0.4: Backpropagation
 	- [ ] 0.5: VAEs & GANs
