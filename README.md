@@ -4,7 +4,9 @@ I'm Emily.
 
 Thanks for snooping on my Github portfolio! 
 
-I'm on a sidequest to learn ML / AI Safety. So far, I've taken courses with the Center for AI Safety and BlueDot Impact, and I am currently working through the ARENA curriculum.
+I'm on a sidequest to learn ML / AI Safety. So far, I've taken courses with the Center for AI Safety and BlueDot Impact, and this repository shows my progress through the ARENA curriculum.
+
+This project is currently on pause while I take the BlueDot Technical AI Safety Project course. To catch a glimpse at my project, see [here](https://docs.google.com/document/d/1v_EGRgJAuLUp0LGb-tNMW0Q4U5puVKHW48M8dNloeTU/edit?usp=sharing).
 
 Have a nice day wherever you are! 
 
@@ -16,7 +18,7 @@ Emily 🌸
 - [ ] Chapter 0 - Fundamentals
 	- [x] 0.1: Ray Tracing
 	- [x] 0.2: CNNs & ResNets
-	- [ ] 0.3: Optimization
+	- [x] 0.3: Optimization
 	- [ ] 0.4: Backpropagation
 	- [ ] 0.5: VAEs & GANs
 - [ ] Chapter 1: Transformer Interpretability
